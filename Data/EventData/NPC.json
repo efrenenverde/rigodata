@@ -1,0 +1,9 @@
+{
+    "Sage001": {
+            "image": "Resources/Placeholders/wizard.png",
+            "quest": false,
+            "shop": false,
+            "dialogue": "",
+            "event": "wizardDidIt001"
+        }
+}

@@ -1,0 +1,32 @@
+{
+    "42.4380 -8.4490":{
+        "Terrain":{
+            "Type": "Single/Multiple",
+            "Single": "Pirates",
+            "Multiple": {
+                "Pirates": {
+                    "Area": ["J0F9", "E0A2"]
+                },
+                "Paradiso": {
+                    "Area": ["E3A9"]
+                }
+            }
+        },
+        "SpawnTiles":{
+            "None": {
+                "All": false,
+                "Area": []
+            },
+            "Base": {
+                "All": false,
+                "Area": []
+            },
+            "Priority": {
+                "All": false,
+                "Rank": 0,
+                "Area": []
+            }
+        }
+        
+    }
+}
